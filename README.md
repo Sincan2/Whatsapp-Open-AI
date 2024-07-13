@@ -22,8 +22,8 @@ Langkah-langkah untuk menginstal proyek ini:
 
 1. Clone repositori ini:
     ```bash
-    git clone https://github.com/username/nama-proyek.git
-    cd nama-proyek
+    git clone [https://github.com/username/nama-proyek.git](https://github.com/Sincan2/Whatsapp-Open-AI.git)
+    cd Whatsapp-Open-AI
     ```
 
 2. Buat virtual environment (opsional tapi direkomendasikan):
