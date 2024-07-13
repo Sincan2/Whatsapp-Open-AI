@@ -1,4 +1,4 @@
-# Nama Proyek
+# Google Gemini Integrasi ke WHatsapp
 
 Deskripsi singkat tentang proyek ini.
 
