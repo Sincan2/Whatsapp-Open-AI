@@ -1,0 +1,15 @@
+2024/07/13-08:15:47.902 cc9 Reusing MANIFEST /root/qe3/VenomBot-OpenAI/tokens/session_venom/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/13-08:15:47.902 cc9 Recovering log #730
+2024/07/13-08:15:47.915 cc9 Reusing old log /root/qe3/VenomBot-OpenAI/tokens/session_venom/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000730.log 
+2024/07/13-08:15:49.598 cd0 Level-0 table #736: started
+2024/07/13-08:15:49.606 cd0 Level-0 table #736: 380295 bytes OK
+2024/07/13-08:15:49.608 cd0 Delete type=0 #730
+2024/07/13-08:15:49.608 ccb Manual compaction at level-0 from '\x00\xd0\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xd1\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/13-08:15:50.891 cc9 Compacting 1@1 + 2@2 files
+2024/07/13-08:15:50.955 cc9 Generated table #737@1: 43899 keys, 2207521 bytes
+2024/07/13-08:15:51.005 cc9 Generated table #738@1: 34848 keys, 1388253 bytes
+2024/07/13-08:15:51.005 cc9 Compacted 1@1 + 2@2 files => 3595774 bytes
+2024/07/13-08:15:51.007 cc9 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/07/13-08:15:51.007 cc9 Delete type=2 #733
+2024/07/13-08:15:51.007 cc9 Delete type=2 #732
+2024/07/13-08:15:51.007 cc9 Delete type=2 #736
